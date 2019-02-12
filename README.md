@@ -6,11 +6,11 @@ This version contains settings and a database to be used within the course [KD12
 
 The original software (without KTH settings) and the souce code may be found [here][29].
 
-A previous software version for Windows (Visual Basic) named (**Medusa/Hydra**) and developped at [KTH][1] is available at https://sites.google.com/site/chemdiagr
+A previous un-maintained version for Windows (Visual Basic) named (**Medusa/Hydra**) and developped at [KTH][1] is available at https://sites.google.com/site/chemdiagr
 
 
 ## Download
-All downloads are available in the [releases section][2]. There are two variants of Chemical Equilibrium Diagrams: multi platform, and Windows, these versions are either a complete zip file or a Windows installer.
+All downloads are available in the [releases section][2]. There are two variants of Chemical Equilibrium Diagrams: multi platform, and Windows. These versions are either a complete zip file or a Windows installer.
 
 - The multi-platform zip-file contains jar-files which may be used under Ubuntu (Linux), Windows or MacOS.
 
@@ -24,6 +24,7 @@ All downloads are available in the [releases section][2]. There are two variants
 * Example chemical equilibrium diagrams that may be produced with this software:
 
 ![Predominance area diagram](Predom.png) ![Fraction diagrams](Fraction.png) ![Logarithmic diagram](Logarithmic.png)
+
 
 ## Get going
 
@@ -46,6 +47,7 @@ All downloads are available in the [releases section][2]. There are two variants
 
 ![e-mail](e-mail.png)
 
+
 ## Credits
 
 The motor behind **Spana**, performing the chemical equilibrium calculations, is **HALTAFALL** published in:
@@ -65,6 +67,7 @@ Several code parts and programming suggestions are from Réal Gagnon's site [Rea
 
 The following persons have contributed with ideas and suggestions: Gunnar Eriksson (Umeå), Ingmar Grenthe (KTH), Johan Blixt (KTH), 
 Sven-Olof Pettersson (Studsvik) and Joachim Zeising (KTH). Many thanks are due to the chemistry teaching staff at KTH: Joan Lind, Gabor Merenyi, Olle Wahlberg, Tom Wallin, Mats Jansson, Märtha Åberg, and many others. And many thanks to all students at KTH who helped me in shaping up the software and in finding many bugs!
+
 
 ## Last Updates
 See [here][29]
