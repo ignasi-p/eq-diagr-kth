@@ -33,24 +33,22 @@ All downloads are available in the [releases section][2]. There are two variants
 
 ## System Requirements
 
-* Java 1.7 or later.
-* Apple computers: Java 7 requires an Intel-based Mac running Mac OS X 10.7.3 (Lion) or later with a 64-bit browser (Safari, for example).
-* [PortableApps.com platform][4] (optional in Windows systems).
-
+* Java 1.8 or later.
 
 ## License
 
 * This software is released under [GPLv3 license][5].
 
-
 ## Report problems
 
 ![e-mail](e-mail.png)
 
-
 ## Credits
 
-The motor behind **Spana**, performing the chemical equilibrium calculations, is **HALTAFALL** published in:
+The following persons have contributed with ideas and suggestions: Gunnar Eriksson (Umeå), Ingmar Grenthe (KTH), Johan Blixt (KTH), 
+Sven-Olof Pettersson (Studsvik) and Joachim Zeising (KTH). Many thanks are due to the chemistry teaching staff at KTH: Joan Lind, Gabor Merenyi, Olle Wahlberg, Tom Wallin, Mats Jansson, Märtha Åberg, and many others. And many thanks to all students at KTH who helped me in shaping up the software and in finding many bugs!
+
+**Spana:** the motor performing the chemical equilibrium calculations is **HALTAFALL** published in:
 
 - Ingri N, Kakolowicz W, Sillén L G, Warnqvist B, 1967. High-speed computers as a supplement to graphical methods - V. HALTAFALL, a general program for calculating the composition of equilibrium mixtures. [Talanta, 14: 1261-1286][10]. _Errata:_ [Talanta, 15(3) (1968) xi-xii][11].
 
@@ -61,12 +59,9 @@ Many ideas for the plotting of chemical diagrams are from the **SOLGASWATER** co
 * Eriksson G, 1979. An algorithm for the computation of aqueous multicomponent, multiphase equilibria. [Anal. Chim. Acta, 112: 375-383][14].
 
 **DataBase** (formerly HYDRA) is inspired on a
-program & database (initially for MS-DOS) created by Mingsheng Wang, Andrey Zagorodny under the leadership of Mamoun Muhammed at Materials Chemistry, Royal Institute of Technology (KTH), Stockholm.
+program & database (initially for MS-DOS) created by Mingsheng Wang, Andrey Zagorodny under the leadership of Prof. Mamoun Muhammed at Materials Chemistry, Royal Institute of Technology (KTH), Stockholm.
 
-Several code parts and programming suggestions are from Réal Gagnon's site [Real's HowTo][20]. The external browser launcher is [BareBones][21]. The Java "vector cut-and-paste" class [jvectClipboard][22] is by Serge Rosmorduc, see [JSesh][23]. ClassLocator, ClipboardCopy, CSVparser,  ExternalLinkContentViewerUI, PrintUtility and SortedListModel are adapted from ideas and code found in the internet at diverse sites (many not existing anymore). This software has been developped using the [portable][24] version of [Netbeans][25].
-
-The following persons have contributed with ideas and suggestions: Gunnar Eriksson (Umeå), Ingmar Grenthe (KTH), Johan Blixt (KTH), 
-Sven-Olof Pettersson (Studsvik) and Joachim Zeising (KTH). Many thanks are due to the chemistry teaching staff at KTH: Joan Lind, Gabor Merenyi, Olle Wahlberg, Tom Wallin, Mats Jansson, Märtha Åberg, and many others. And many thanks to all students at KTH who helped me in shaping up the software and in finding many bugs!
+**Java:** Several code parts and programming suggestions are from Réal Gagnon's site [Real's HowTo][20]. The external browser launcher is [BareBones][21]. The Java "vector cut-and-paste" class [jvectClipboard][22] is by Serge Rosmorduc, see [JSesh][23]. ClassLocator, ClipboardCopy, CSVparser,  ExternalLinkContentViewerUI, PrintUtility and SortedListModel are adapted from ideas and code found in the internet at diverse sites (many not existing anymore). This software has been developped using the [portable][24] version of [Netbeans][25].
 
 
 ## Last Updates
